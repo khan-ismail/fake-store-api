@@ -1,0 +1,13 @@
+spring:
+  application.name: FakeStoreApi
+  jpa:
+    show-sql: true
+    hibernate.ddl-auto: update
+  datasource:
+    url: jdbc:mysql://zerotoismail.com:3306/fake_api_db
+    username: root
+    password: Creater231998!
+  security:
+    user:
+      name: ismail
+      password: test@1234!
